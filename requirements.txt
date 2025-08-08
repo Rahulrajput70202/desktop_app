@@ -1,0 +1,4 @@
+androguard
+ttkbootstrap
+reportlab
+Pillow
